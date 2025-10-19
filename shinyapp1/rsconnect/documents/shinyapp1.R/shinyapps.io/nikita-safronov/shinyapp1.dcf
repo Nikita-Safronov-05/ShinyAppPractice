@@ -1,0 +1,10 @@
+name: shinyapp1
+title:
+username: nikita-safronov
+account: nikita-safronov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15800944
+bundleId: 11055484
+url: https://nikita-safronov.shinyapps.io/shinyapp1/
+version: 1
