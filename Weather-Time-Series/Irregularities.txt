@@ -1,0 +1,4 @@
+I noticed that that orchard_2015 data seemed to have a few irregularities.
+Firstly, from November 23rd to November 25th, the orchard temperatures had massive impossible drop spikes.
+The pressure data also had a few sudden drops to 0 throughout the year. Both of these irregularities were
+probably issues with the devices measuring the data.

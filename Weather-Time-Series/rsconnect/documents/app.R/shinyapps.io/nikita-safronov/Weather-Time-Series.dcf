@@ -1,0 +1,10 @@
+name: Weather-Time-Series
+title:
+username: nikita-safronov
+account: nikita-safronov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15804188
+bundleId: 11056970
+url: https://nikita-safronov.shinyapps.io/Weather-Time-Series/
+version: 1
